@@ -1,6 +1,6 @@
-#🚀 Overview
+🚀 Overview
 
-This program demonstrates the use of conditional statements (if, elif, else) in Python through a variety of practical examples:
+This program demonstrates the use of conditional statements (**, **, ``) in Python through a variety of practical examples:
 
 User Authentication 🔐
 
@@ -12,17 +12,17 @@ Day Classification 📅
 
 Driving License Eligibility 🚗
 
-📚 About if, elif, and else
+**📚 About **, **, and **``
 
-if: Executes a block of code if the condition is true.
+``: Executes a block of code if the condition is true.
 
-elif: Short for "else if," checks another condition if the previous one is false.
+``: Short for "else if," checks another condition if the previous one is false.
 
-else: Executes a block of code if none of the previous conditions are true.
+``: Executes a block of code if none of the previous conditions are true.
 
 🔑 Features
 
-<b>1. User Authentication <b>
+1. User Authentication
 
 Prompts the user to enter a username and password.
 
@@ -79,3 +79,4 @@ Follow the prompts and enter requested data.
 Observe outputs based on your inputs.
 
 Enjoy exploring Python's powerful decision-making constructs! 🐍
+
