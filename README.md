@@ -22,7 +22,7 @@ else: Executes a block of code if none of the previous conditions are true.
 
 🔑 Features
 
-1. User Authentication
+<b>1. User Authentication <b>
 
 Prompts the user to enter a username and password.
 
