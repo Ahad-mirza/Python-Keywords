@@ -1,10 +1,11 @@
-## 1. **Login Verification System 🔐**
-
-**Problem:**  
+1. Login Verification System 🔐
+Problem:
 Write a Python program that takes a username and password as input and checks whether they match predefined credentials. If they match, print "Login Successful!"; otherwise, print "Invalid credentials."
 
-**Answer:**
-```python
+Answer:
+
+python
+Copy code
 name = input("Enter Username: 🧑‍💻")
 pass_input = int(input("Enter password for Login🔑: "))
 password = 78047340
@@ -14,7 +15,7 @@ if pass_input == password:
         print("Login Successful! 🔓")
 else:
     print("Invalid credentials ❌")
-## 2. **Temperature Advice System 🌡️**
+2. Temperature Advice System 🌡️
 Problem:
 Create a program that prompts the user to input the current temperature. Based on the temperature, provide advice:
 
